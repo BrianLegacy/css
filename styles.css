@@ -1,0 +1,126 @@
+.topelements{
+    display: flex;
+    flex-direction: row;
+}
+.upperblock{
+    background-color: blue;
+}
+.rowdivs3{
+    display: flex;
+    flex-direction: row;
+    background-color: brown;
+}
+.secondsegment{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(189, 218, 63);
+}
+.Thirdsegmentwhole{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(218, 20, 20);
+}
+.thirdsegment{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(218, 20, 20);
+}
+.fifthsegment{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(233, 29, 233);
+}
+.sixthsegment{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(223, 203, 30);
+}
+
+.first4{
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    flex-direction: row;
+    color: brown;
+    
+}
+
+.bmember{
+    background-color: aqua;
+}
+.last2{
+    display: flex;
+    flex-direction: row;
+}
+.centerbuttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.rowcomments3{
+    display: flex;
+    flex-direction: row;
+}
+.logos{
+    display: flex;
+    flex-direction: row;
+}
+.largediv{
+    display: flex;
+    flex-direction: row;
+}
+.fourthsegment{
+    display: flex;
+    flex-direction: column;
+}
+.columndivs3{
+    display: flex;
+    flex-direction: row;
+}
+.textimage{
+    display: flex;
+    flex-direction: row;
+}
+.imagedata{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-height: 50%;
+    max-width: 100%;
+}
+.consulting{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.lastcol5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+
+}
+.footermargin{
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: space-between;
+}
+.social{
+    display: flex;
+    flex-direction: row;
+   
+}
+button{
+    max-width: fit-content;   
+}
